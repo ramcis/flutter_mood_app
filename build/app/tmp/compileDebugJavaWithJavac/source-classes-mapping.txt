@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/dribble_clone/BuildConfig.java
+ com.example.dribble_clone.BuildConfig
